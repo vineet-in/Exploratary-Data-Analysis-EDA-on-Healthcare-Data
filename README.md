@@ -1,1 +1,1 @@
-# Explotary-Data-Analysis-EDA-on-Healthcare-Data
+# Exploratory-Data-Analysis-EDA-on-Healthcare-Data
